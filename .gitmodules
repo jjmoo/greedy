@@ -1,9 +1,12 @@
 [submodule "Lecture1"]
 	path = Lecture1
-	url = git@47.94.6.102:20191024038/Lecture1.git
+	url = git@47.94.6.102:MachineLearnningCamp1/Lecture1.git
 [submodule "MiniAssignments"]
 	path = MiniAssignments
-	url = git@47.94.6.102:20191024038/MiniAssignments.git
+	url = git@47.94.6.102:MachineLearnningCamp1/MiniAssignments.git
 [submodule "course-info"]
 	path = course-info
-	url = git@47.94.6.102:20191024038/course-info.git
+	url = git@47.94.6.102:MachineLearnningCamp1/course-info.git
+[submodule "fork-MiniAssignments"]
+	path = fork-MiniAssignments
+	url = git@47.94.6.102:20191024038/MiniAssignments.git
